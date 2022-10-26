@@ -1,0 +1,8 @@
+
+configuration {
+        modi: "window,drun,ssh,combi";
+        show-icons: true;
+        font: "Ubuntu Regular 11";
+}
+
+@theme "MintYDarkPink"
